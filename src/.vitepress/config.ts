@@ -463,7 +463,7 @@ export const sidebar = {
       text: 'Tutorial',
       items: [
         {
-          text: '1. Adding Data',
+          text: '1. Adding Reactive Properties',
           link: '/tutorial/#step-1'
         },
         {

@@ -1,4 +1,4 @@
-# Adding Data
+# Adding Reactive Properties
 
 For now, our component renders some static data. Try to change a number 3 in the code to something different to see how the rendered result changes.
 
