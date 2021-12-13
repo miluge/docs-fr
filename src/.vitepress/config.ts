@@ -467,8 +467,12 @@ export const sidebar = {
           link: '/tutorial/#step-1'
         },
         {
-          text: '2. Two-way Binding',
+          text: '2. Handling User Input',
           link: '/tutorial/#step-2'
+        },
+        {
+          text: '2. Conditional Rendering',
+          link: '/tutorial/#step-3'
         }
       ]
     }
